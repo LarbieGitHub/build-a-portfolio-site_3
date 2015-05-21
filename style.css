@@ -1,0 +1,15 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+#pagedescription {
+  text-align: right;
+  text-transform: uppercase;
+  text: text-thin;
+}
+
+#pageArticle, #pageSection, #pageAside {
+  text-align: center;
+  text: bold;
+}
